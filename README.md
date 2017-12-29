@@ -1,2 +1,2 @@
 # shell
-linux　shell study
+linux shell study
