@@ -1,1 +1,2 @@
 # shell
+linux　shell study
