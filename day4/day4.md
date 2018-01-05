@@ -122,4 +122,3 @@ do
   echo "$b - $a"
 done
 ```
-## 3.2 while命令
